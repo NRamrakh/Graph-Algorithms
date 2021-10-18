@@ -1,0 +1,18 @@
+8 16 D
+A F 24
+A C 47
+A E 70
+F D 120
+F C 25
+C D 88
+C B 55
+C E 23
+C G 66
+B D 31
+B H 79
+B G 74
+D H 29
+G H 66
+E B 31
+E G 42
+A
