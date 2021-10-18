@@ -8,6 +8,10 @@ Given a connected, undirected, weighted graph, find a spanning tree using edges 
 
 **We have implemented Dijkstra's algorithm to address the first problem and Prim's algorithm to address the second problem.**
 
+The algorithms are implemented in Python.
+
+This repository contains the jupyter notebook of the Python code and also the sample input files to test the code.
+
 
 
 
