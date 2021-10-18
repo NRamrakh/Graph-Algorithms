@@ -4,6 +4,10 @@
 Find the shortest path tree in both directed and undirected weighted graphs for a given source vertex. Assume there is no negative edge in your graph. You will print each path and path cost for a given source.
 
 ## Problem 2: Minimum Spanning Tree Algorithm
-[image](https://user-images.githubusercontent.com/70915043/137655003-edc10d0a-baaa-4076-9115-aa5cd7f4fe3c.png)
+Given a connected, undirected, weighted graph, find a spanning tree using edges that minimizes the total weight. Use either Kruskal's or Prim's agorithm to fin Minimum Spanning Tree. You will print out edges of the tree and total cost of minimum spanning tree.
+
+**We have implemented Dijkstra's algorithm to address the first problem and Prim's algorithm to address the second problem.**
+
+
 
 
